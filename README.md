@@ -17,14 +17,6 @@ I’m passionate about building scalable web applications and exploring AI/ML so
 
 ---
 
-## 💻 Projects & Highlights
-
-Check out my projects:  
-- [Awesome IOT project](https://github.com/k2pitel/ItemReminderIOT) – Developed a full-stack IoT application to monitor physical items and trigger real-time reminders based on sensor data and location rules.
-- [Coding & Behavioral Interview Simulator](https://github.com/k2pitel/Coding-Behavioral-Interview-Simulator-AI) - Built an demo AI-driven platform that simulates both coding and behavioral interviews, with the AI acting as the interviewer.
-
----
-
 ## 📊 GitHub Stats
 
 ![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
@@ -34,7 +26,7 @@ Check out my projects:
 
 ## 🏆 LeetCode
 
-![Kevin's LeetCode Stats]([https://leetcard.jacoblin.cool/KevinPham?theme=dark](https://leetcode.com/u/BustThatNut/))  
+![LeetCode Stats](https://leetcard.jacoblin.cool/bustthatnut?theme=wtf&font=Cousine) 
 
 ---
 
