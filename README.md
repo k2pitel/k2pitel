@@ -17,15 +17,6 @@ I’m passionate about building scalable web applications and exploring AI/ML so
 
 ---
 
-## 📊 GitHub Stats
-
-https://pixel-profile.vercel.app/api/github-stats?username=<k2pitel>&theme=journey&pixelate_avatar=false 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=true&layout=compact)  
-
----
-
-## 🏆 LeetCode
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bustthatnut?theme=wtf&font=Cousine) 
 
 ---
