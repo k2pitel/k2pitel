@@ -1,12 +1,12 @@
 # Hi, I'm Kevin Pham 👋
 
-**Software Engineer | AI Enthusiast | Food Lover 🍣🤖**
+**Software Engineer | AI Enthusiast | Food Lover **
 
 I’m passionate about building scalable web applications and exploring AI/ML solutions. When I’m not coding, you can find me experimenting with new recipes or testing my limits on LeetCode.  
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages:** JavaScript, TypeScript, Python, C#, C, C++, SQL  
 **Web & Frameworks:** HTML/CSS, Vite, React, Angular, Next.js, Express.js, Flask, ASP.NET (.NET), .NET MAUI, chart.js, Node.js  
