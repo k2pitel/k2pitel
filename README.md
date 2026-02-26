@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Pham 👋
 
-**Software Engineer | AI Enthusiast | Food Lover **
+**Software Engineer | AI Enthusiast | Food Lover**
 
 I’m passionate about building scalable web applications and exploring AI/ML solutions. When I’m not coding, you can find me experimenting with new recipes or testing my limits on LeetCode.  
 
